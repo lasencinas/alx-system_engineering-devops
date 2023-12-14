@@ -1,2 +1,2 @@
-#!/bin/bah
+#!/bin/bash
 printf '%.2f\n' $num
